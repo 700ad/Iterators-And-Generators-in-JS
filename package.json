@@ -1,6 +1,7 @@
 {
-  "name": "generators",
+  "name": "iterators-and-generators-in-js",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Adeel Farazand adeel.farzand.1@gmail.com"
 }
